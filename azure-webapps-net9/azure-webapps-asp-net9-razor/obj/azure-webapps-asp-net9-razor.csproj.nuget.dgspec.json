@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {}
+  },
+  "projects": {
+    "c:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
+        "projectName": "azure-webapps-asp-net9-razor",
+        "projectPath": "c:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
+        "packagesPath": "C:\\Users\\yosoy\\.nuget\\packages\\",
+        "outputPath": "c:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yosoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

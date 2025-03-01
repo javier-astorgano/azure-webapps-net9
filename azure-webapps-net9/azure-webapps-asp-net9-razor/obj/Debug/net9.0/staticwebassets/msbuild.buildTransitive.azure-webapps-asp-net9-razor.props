@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\azure-webapps-asp-net9-razor.props" />
+</Project>
