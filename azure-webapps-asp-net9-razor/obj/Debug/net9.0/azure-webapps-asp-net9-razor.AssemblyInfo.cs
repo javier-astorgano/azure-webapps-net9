@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-webapps-asp-net9-razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf9678f76c07547e29b37839012bf97dc0bead75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a5441856794394d7b04aab3e73264c018f8f3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-webapps-asp-net9-razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-webapps-asp-net9-razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

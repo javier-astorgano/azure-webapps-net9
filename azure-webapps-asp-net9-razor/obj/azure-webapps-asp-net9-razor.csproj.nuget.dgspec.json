@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {}
+    "c:\\Source\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {}
   },
   "projects": {
-    "C:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {
+    "c:\\Source\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
+        "projectUniqueName": "c:\\Source\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
         "projectName": "azure-webapps-asp-net9-razor",
-        "projectPath": "C:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
+        "projectPath": "c:\\Source\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\azure-webapps-asp-net9-razor.csproj",
         "packagesPath": "C:\\Users\\yosoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\azure-webapps-net9\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\obj\\",
+        "outputPath": "c:\\Source\\azure-webapps-net9\\azure-webapps-asp-net9-razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
